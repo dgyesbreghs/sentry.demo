@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sentry.Demo", "Sentry.Demo\Sentry.Demo.csproj", "{ECD3C8FD-F1FB-4031-8B3D-BF9CCC651CCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECD3C8FD-F1FB-4031-8B3D-BF9CCC651CCC}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{ECD3C8FD-F1FB-4031-8B3D-BF9CCC651CCC}.Debug|iPhone.Build.0 = Debug|iPhone
+		{ECD3C8FD-F1FB-4031-8B3D-BF9CCC651CCC}.Debug|iPhone.Deploy.0 = Debug|iPhone
+		{ECD3C8FD-F1FB-4031-8B3D-BF9CCC651CCC}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{ECD3C8FD-F1FB-4031-8B3D-BF9CCC651CCC}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{ECD3C8FD-F1FB-4031-8B3D-BF9CCC651CCC}.Debug|iPhoneSimulator.Deploy.0 = Debug|iPhoneSimulator
+		{ECD3C8FD-F1FB-4031-8B3D-BF9CCC651CCC}.Release|iPhone.ActiveCfg = Release|iPhone
+		{ECD3C8FD-F1FB-4031-8B3D-BF9CCC651CCC}.Release|iPhone.Build.0 = Release|iPhone
+		{ECD3C8FD-F1FB-4031-8B3D-BF9CCC651CCC}.Release|iPhone.Deploy.0 = Release|iPhone
+		{ECD3C8FD-F1FB-4031-8B3D-BF9CCC651CCC}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{ECD3C8FD-F1FB-4031-8B3D-BF9CCC651CCC}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{ECD3C8FD-F1FB-4031-8B3D-BF9CCC651CCC}.Release|iPhoneSimulator.Deploy.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
